@@ -1,0 +1,37 @@
+export enum CommandType {
+  ArmAway = "armAway",
+  ArmHome = "armHome",
+  ArmNight = "armNight",
+  Arrived = "arrived",
+  Beep = "beep",
+  Both = "both",
+  Configure = "configure",
+  DeleteCode = "deleteCode",
+  Departed = "departed",
+  Disarm = "disarm",
+  DeviceNotification = "deviceNotification",
+  DoubleTap = "doubleTap",
+  Entry = "entry",
+  Hold = "hold",
+  Flash = "flash",
+  GetCodes = "getCodes",
+  MarkInUse = "markInUse",
+  On = "on",
+  Off = "off",
+  Push = "push",
+  Refresh = "refresh",
+  SetArmHomeDelay = "setArmHomeDelay",
+  SetArmNightDelay = "setArmNightDelay",
+  SetCode = "setCode",
+  SetCodeLength = "setCodeLength",
+  SetEntryDelay = "setEntryDelay",
+  SetExitDelay = "setExitDelay",
+  SetPartialFunction = "setPartialFunction",
+  Siren = "siren",
+  Strobe = "strobe",
+  UpdateFirmware = "updateFirmware",
+}
+
+export interface Command {
+  command: `${CommandType}`;
+}

@@ -1,0 +1,2036 @@
+[
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Bedroom Cam Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "1",
+    "date": "2024-03-26T01:59:57+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Bedroom",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Device",
+    "label": "Christmas Tree",
+    "type": "Generic Zigbee Outlet",
+    "id": "65",
+    "date": "2024-03-31T12:03:36+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Moisture Sensor",
+    "label": "Kitchen Behind Oven Water Leak Sensor",
+    "type": "Generic Zigbee Moisture Sensor",
+    "id": "129",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": "Kitchen",
+    "capabilities": [
+      "WaterSensor",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "temperature": "62.08",
+      "dataType": "NUMBER",
+      "values": null,
+      "water": "dry",
+      "battery": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Kitchen Lamp Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "193",
+    "date": "2024-03-31T06:04:31+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Kitchen",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Moisture Sensor",
+    "label": "Kitchen Under Sink Water Leak Sensor",
+    "type": "Generic Zigbee Moisture Sensor",
+    "id": "2",
+    "date": "2024-03-31T03:06:09+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Kitchen",
+    "capabilities": [
+      "WaterSensor",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "temperature": "60.43",
+      "dataType": "NUMBER",
+      "values": null,
+      "water": "dry",
+      "battery": "87"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Iris Button Controller",
+    "label": "Button 1",
+    "type": "Iris Button Controller",
+    "id": "66",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "HoldableButton",
+      "TemperatureMeasurement",
+      "Sensor",
+      "PushableButton"
+    ],
+    "attributes": {
+      "pushed": "1",
+      "dataType": "NUMBER",
+      "values": null,
+      "held": "1",
+      "battery": "90",
+      "numberOfButtons": null,
+      "temperature": "66.10"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Sonoff Zigbee Button Controller",
+    "label": "Bedroom End table button",
+    "type": "Sonoff Zigbee Button Controller",
+    "id": "130",
+    "date": "2024-03-19T06:44:57+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Bedroom",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Battery",
+      "HoldableButton",
+      "PushableButton",
+      "DoubleTapableButton"
+    ],
+    "attributes": {
+      "pushed": "1",
+      "dataType": "NUMBER",
+      "values": null,
+      "doubleTapped": "1",
+      "held": null,
+      "numberOfButtons": "1",
+      "battery": "100"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "doubleTap"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "push"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Small Kitchen Lamp Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "194",
+    "date": "2024-03-31T06:04:31+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Kitchen",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "SmartThings Humidity Sensor",
+    "label": "Utility Closet Temp Sensor",
+    "type": "SmartThings Humidity Sensor",
+    "id": "131",
+    "date": "2024-03-31T18:43:46+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Utility Closet",
+    "capabilities": [
+      "RelativeHumidityMeasurement",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "temperature": "56.25",
+      "dataType": "NUMBER",
+      "values": null,
+      "battery": "37",
+      "humidity": "47"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Poopenshteins 2 Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "132",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "iPad Pro",
+    "label": "iPad Pro",
+    "type": "Mobile App Device",
+    "id": "133",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Notification",
+      "Sensor",
+      "PresenceSensor"
+    ],
+    "attributes": {
+      "presence": "not present",
+      "dataType": "STRING",
+      "values": null,
+      "notificationText": "Utility Closet Heater turned off",
+      "usedBy": null
+    },
+    "commands": [
+      {
+        "command": "arrived"
+      },
+      {
+        "command": "departed"
+      },
+      {
+        "command": "deviceNotification"
+      },
+      {
+        "command": "markInUse"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Bedside Lamp Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "33",
+    "date": "2024-03-31T06:02:04+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Bedroom",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Iris Button Controller",
+    "label": "Room Button",
+    "type": "Iris Button Controller",
+    "id": "97",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "HoldableButton",
+      "TemperatureMeasurement",
+      "Sensor",
+      "PushableButton"
+    ],
+    "attributes": {
+      "pushed": "1",
+      "dataType": "NUMBER",
+      "values": null,
+      "held": null,
+      "battery": "100",
+      "numberOfButtons": "1",
+      "temperature": "67.50"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Backyard Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "161",
+    "date": "2024-03-31T13:03:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Utility Closet",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Airbnb Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "225",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Airbnb",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Moisture Sensor",
+    "label": "Bathroom Water Leak Sensor",
+    "type": "Generic Zigbee Moisture Sensor",
+    "id": "289",
+    "date": "2024-03-31T16:00:32+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Bathroom",
+    "capabilities": [
+      "WaterSensor",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "temperature": "62.39",
+      "dataType": "NUMBER",
+      "values": null,
+      "water": "dry",
+      "battery": "50"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Hallway Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "34",
+    "date": "2024-03-31T18:35:54+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Hallway",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Leia’s iPhone",
+    "label": "Leia’s iPhone",
+    "type": "Mobile App Device",
+    "id": "98",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Notification",
+      "Sensor",
+      "PresenceSensor"
+    ],
+    "attributes": {
+      "presence": null,
+      "dataType": "STRING",
+      "values": null,
+      "notificationText": "Water leak detected under kitchen sink!!",
+      "usedBy": null
+    },
+    "commands": [
+      {
+        "command": "arrived"
+      },
+      {
+        "command": "departed"
+      },
+      {
+        "command": "deviceNotification"
+      },
+      {
+        "command": "markInUse"
+      }
+    ]
+  },
+  {
+    "name": "Sengled Button Controller",
+    "label": "Bedroom Remote",
+    "type": "Sengled Button Controller",
+    "id": "162",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": "Bedroom",
+    "capabilities": [
+      "Battery",
+      "HoldableButton",
+      "PushableButton",
+      "DoubleTapableButton",
+      "ReleasableButton"
+    ],
+    "attributes": {
+      "released": null,
+      "dataType": "NUMBER",
+      "values": null,
+      "numberOfButtons": null,
+      "held": null,
+      "battery": null,
+      "pushed": "2",
+      "doubleTapped": "4"
+    },
+    "commands": [
+      {
+        "command": "doubleTap"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "release"
+      },
+      {
+        "command": "release"
+      }
+    ]
+  },
+  {
+    "name": "Device",
+    "label": "Living Room TV Switch",
+    "type": "Generic Zigbee Switch",
+    "id": "291",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Switch"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "iPad",
+    "label": "iPad",
+    "type": "Mobile App Device",
+    "id": "293",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Notification",
+      "Sensor",
+      "PresenceSensor"
+    ],
+    "attributes": {
+      "presence": null,
+      "dataType": "STRING",
+      "values": null,
+      "notificationText": null,
+      "usedBy": null
+    },
+    "commands": [
+      {
+        "command": "arrived"
+      },
+      {
+        "command": "departed"
+      },
+      {
+        "command": "deviceNotification"
+      },
+      {
+        "command": "markInUse"
+      }
+    ]
+  },
+  {
+    "name": "4",
+    "label": "Pico de Gallo",
+    "type": "Lutron Pico",
+    "id": "294",
+    "date": "2024-03-31T03:27:20+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Actuator",
+      "HoldableButton",
+      "PushableButton",
+      "DoubleTapableButton",
+      "ReleasableButton"
+    ],
+    "attributes": {
+      "held": "3",
+      "dataType": "NUMBER",
+      "values": null,
+      "released": null,
+      "doubleTapped": "5",
+      "numberOfButtons": "5",
+      "pushed": "5"
+    },
+    "commands": [
+      {
+        "command": "doubleTap"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "parse"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "release"
+      }
+    ]
+  },
+  {
+    "name": "3",
+    "label": "Bedroom Pico",
+    "type": "Lutron Pico",
+    "id": "295",
+    "date": "2024-03-24T20:34:31+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Actuator",
+      "HoldableButton",
+      "PushableButton",
+      "DoubleTapableButton",
+      "ReleasableButton"
+    ],
+    "attributes": {
+      "held": null,
+      "dataType": "NUMBER",
+      "values": null,
+      "released": null,
+      "doubleTapped": null,
+      "numberOfButtons": "5",
+      "pushed": "3"
+    },
+    "commands": [
+      {
+        "command": "doubleTap"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "parse"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "release"
+      }
+    ]
+  },
+  {
+    "name": "5",
+    "label": "Desk Pico",
+    "type": "Lutron Pico",
+    "id": "296",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Actuator",
+      "HoldableButton",
+      "PushableButton",
+      "DoubleTapableButton",
+      "ReleasableButton"
+    ],
+    "attributes": {
+      "held": null,
+      "dataType": "NUMBER",
+      "values": null,
+      "released": null,
+      "doubleTapped": null,
+      "numberOfButtons": "5",
+      "pushed": null
+    },
+    "commands": [
+      {
+        "command": "doubleTap"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "parse"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "release"
+      }
+    ]
+  },
+  {
+    "name": "2",
+    "label": "Living Room Pico",
+    "type": "Lutron Pico",
+    "id": "297",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Actuator",
+      "HoldableButton",
+      "PushableButton",
+      "DoubleTapableButton",
+      "ReleasableButton"
+    ],
+    "attributes": {
+      "held": null,
+      "dataType": "NUMBER",
+      "values": null,
+      "released": null,
+      "doubleTapped": null,
+      "numberOfButtons": "5",
+      "pushed": null
+    },
+    "commands": [
+      {
+        "command": "doubleTap"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "parse"
+      },
+      {
+        "command": "push"
+      },
+      {
+        "command": "release"
+      }
+    ]
+  },
+  {
+    "name": "Lutron Telnet",
+    "label": "Lutron Telnet",
+    "type": "Lutron Telnet",
+    "id": "298",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Actuator",
+      "Telnet",
+      "Initialize"
+    ],
+    "attributes": {
+      "networkStatus": "online",
+      "dataType": "ENUM",
+      "values": [
+        "online",
+        "offline"
+      ]
+    },
+    "commands": [
+      {
+        "command": "initialize"
+      },
+      {
+        "command": "sendMsg"
+      }
+    ]
+  },
+  {
+    "name": "Device",
+    "label": "Poopenshteins Cam Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "299",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Kitchen",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Front Cam Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "300",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Utility Closet",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Anasazi Lamp Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "301",
+    "date": "2024-03-31T06:01:20+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "West Porch Cam Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "302",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "West Porch",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Wyze Base Station Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "303",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Bedroom",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee CT Bulb (dev)",
+    "label": "Bedroom Cactus Lamp",
+    "type": "Generic Zigbee CT Bulb (dev)",
+    "id": "304",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Bedroom",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Refresh",
+      "ColorTemperature",
+      "ChangeLevel",
+      "SwitchLevel",
+      "Light",
+      "Switch"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "colorTemperature": "2702",
+      "colorName": "Incandescent",
+      "level": "100"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "setColorTemperature"
+      },
+      {
+        "command": "setLevel"
+      },
+      {
+        "command": "startLevelChange"
+      },
+      {
+        "command": "stopLevelChange"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Moisture Sensor",
+    "label": "Laundry Room Water Leak Sensor",
+    "type": "Generic Zigbee Moisture Sensor",
+    "id": "305",
+    "date": "2024-03-31T03:30:56+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Laundry Room",
+    "capabilities": [
+      "WaterSensor",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "temperature": "62.79",
+      "dataType": "NUMBER",
+      "values": null,
+      "water": "dry",
+      "battery": "75"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Moisture Sensor",
+    "label": "Airbnb Water Leak Sensor",
+    "type": "Generic Zigbee Moisture Sensor",
+    "id": "306",
+    "date": "2024-03-31T07:38:28+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Airbnb",
+    "capabilities": [
+      "WaterSensor",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "temperature": "62.93",
+      "dataType": "NUMBER",
+      "values": null,
+      "water": "dry",
+      "battery": "75"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Backyard Cam Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "307",
+    "date": "2024-03-31T13:03:19+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Backyard",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Sonoff Zigbee Button Controller",
+    "label": "Random Button",
+    "type": "Sonoff Zigbee Button Controller",
+    "id": "308",
+    "date": "2024-03-24T21:01:47+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Battery",
+      "HoldableButton",
+      "PushableButton",
+      "DoubleTapableButton"
+    ],
+    "attributes": {
+      "pushed": "1",
+      "dataType": "NUMBER",
+      "values": null,
+      "doubleTapped": "1",
+      "held": null,
+      "numberOfButtons": "1",
+      "battery": "100"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "doubleTap"
+      },
+      {
+        "command": "hold"
+      },
+      {
+        "command": "push"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Small Red Lamp Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "309",
+    "date": "2024-03-31T06:04:31+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Christmas Tree Timer On/Off",
+    "label": "Christmas Tree Timer On/Off",
+    "type": "Virtual Switch",
+    "id": "310",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Switch",
+      "Refresh"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    "commands": [
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Fancy Lamps",
+    "label": "Fancy Lamps",
+    "type": "Virtual Switch",
+    "id": "311",
+    "date": "2024-03-31T06:04:31+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Living Room",
+    "capabilities": [
+      "Switch",
+      "Refresh"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    "commands": [
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Zooz ZEN05 Outdoor Plug",
+    "label": "Airbnb Outdoor Plug",
+    "type": "Zooz ZEN05 Outdoor Plug",
+    "id": "312",
+    "date": "2024-03-31T04:30:00+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Airbnb",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Refresh",
+      "Switch"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Iris V2 Keypad",
+    "label": "Iris Keypad",
+    "type": "Iris V2 Keypad",
+    "id": "313",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "MotionSensor",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TamperAlert",
+      "Tone",
+      "Alarm",
+      "SecurityKeypad",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "battery": "100",
+      "dataType": "JSON_OBJECT",
+      "values": null,
+      "lastCodeName": "Beard and Braid",
+      "armingIn": "0",
+      "temperature": "68.82",
+      "codeLength": "4",
+      "securityKeypad": "disarmed",
+      "maxCodes": "20",
+      "alarm": "off",
+      "codeChanged": "deleted",
+      "motion": "inactive",
+      "tamper": "clear",
+      "lockCodes": "{\"1\":{\"code\":\"3339\",\"name\":\"Beard and Braid\"}}"
+    },
+    "commands": [
+      {
+        "command": "armAway"
+      },
+      {
+        "command": "armHome"
+      },
+      {
+        "command": "armNight"
+      },
+      {
+        "command": "beep"
+      },
+      {
+        "command": "both"
+      },
+      {
+        "command": "configure"
+      },
+      {
+        "command": "deleteCode"
+      },
+      {
+        "command": "disarm"
+      },
+      {
+        "command": "entry"
+      },
+      {
+        "command": "getCodes"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "setArmHomeDelay"
+      },
+      {
+        "command": "setArmNightDelay"
+      },
+      {
+        "command": "setCode"
+      },
+      {
+        "command": "setCodeLength"
+      },
+      {
+        "command": "setEntryDelay"
+      },
+      {
+        "command": "setExitDelay"
+      },
+      {
+        "command": "setPartialFunction"
+      },
+      {
+        "command": "siren"
+      },
+      {
+        "command": "strobe"
+      }
+    ]
+  },
+  {
+    "name": "Pixel 8",
+    "label": "Pixel 8",
+    "type": "Mobile App Device",
+    "id": "314",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": null,
+    "capabilities": [
+      "Notification",
+      "Sensor",
+      "PresenceSensor"
+    ],
+    "attributes": {
+      "presence": null,
+      "dataType": "STRING",
+      "values": null,
+      "notificationText": "Utility Closet Heater turned off",
+      "usedBy": null
+    },
+    "commands": [
+      {
+        "command": "arrived"
+      },
+      {
+        "command": "departed"
+      },
+      {
+        "command": "deviceNotification"
+      },
+      {
+        "command": "markInUse"
+      }
+    ]
+  },
+  {
+    "name": "Airbnb Porch Lights Timer",
+    "label": "Airbnb Porch Lights Timer",
+    "type": "Virtual Switch",
+    "id": "315",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Airbnb",
+    "capabilities": [
+      "Switch",
+      "Refresh"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    "commands": [
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Bedside Lamp Schedule ",
+    "label": "Bedside Lamp Schedule ",
+    "type": "Virtual Switch",
+    "id": "316",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Bedroom",
+    "capabilities": [
+      "Switch",
+      "Refresh"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    "commands": [
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      }
+    ]
+  },
+  {
+    "name": "Iris V3 Keypad",
+    "label": "Iris v3 Keypad",
+    "type": "Iris V3 Keypad",
+    "id": "317",
+    "date": null,
+    "model": null,
+    "manufacturer": null,
+    "room": "Airbnb",
+    "capabilities": [
+      "MotionSensor",
+      "Configuration",
+      "Refresh",
+      "Battery",
+      "TamperAlert",
+      "Tone",
+      "Alarm",
+      "SecurityKeypad",
+      "TemperatureMeasurement",
+      "Sensor"
+    ],
+    "attributes": {
+      "lastCodeName": "Beard and Braid",
+      "dataType": "ENUM",
+      "values": [
+        "disarmed",
+        "armed home",
+        "armed away",
+        "unknown"
+      ],
+      "battery": "100",
+      "codeChanged": "added",
+      "codeLength": "4",
+      "tamper": null,
+      "maxCodes": "20",
+      "armingIn": "0",
+      "temperature": "71.79",
+      "motion": "inactive",
+      "alarm": "off",
+      "lockCodes": "{\"1\":{\"name\":\"Beard and Braid\",\"code\":\"3339\"}}",
+      "securityKeypad": "disarmed"
+    },
+    "commands": [
+      {
+        "command": "armAway"
+      },
+      {
+        "command": "armHome"
+      },
+      {
+        "command": "armNight"
+      },
+      {
+        "command": "beep"
+      },
+      {
+        "command": "both"
+      },
+      {
+        "command": "configure"
+      },
+      {
+        "command": "deleteCode"
+      },
+      {
+        "command": "disarm"
+      },
+      {
+        "command": "entry"
+      },
+      {
+        "command": "getCodes"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "setArmHomeDelay"
+      },
+      {
+        "command": "setArmNightDelay"
+      },
+      {
+        "command": "setCode"
+      },
+      {
+        "command": "setCodeLength"
+      },
+      {
+        "command": "setEntryDelay"
+      },
+      {
+        "command": "setExitDelay"
+      },
+      {
+        "command": "setPartialFunction"
+      },
+      {
+        "command": "siren"
+      },
+      {
+        "command": "strobe"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Utility Closet Switch",
+    "type": "Generic Zigbee Outlet",
+    "id": "318",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Utility Closet",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "off",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": null
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  },
+  {
+    "name": "Generic Zigbee Outlet",
+    "label": "Arrow Plug",
+    "type": "Generic Zigbee Outlet",
+    "id": "319",
+    "date": "2024-03-26T01:59:58+0000",
+    "model": null,
+    "manufacturer": null,
+    "room": "Airbnb",
+    "capabilities": [
+      "Configuration",
+      "Actuator",
+      "Outlet",
+      "PowerMeter",
+      "Switch",
+      "Sensor"
+    ],
+    "attributes": {
+      "switch": "on",
+      "dataType": "NUMBER",
+      "values": null,
+      "power": "0"
+    },
+    "commands": [
+      {
+        "command": "configure"
+      },
+      {
+        "command": "flash"
+      },
+      {
+        "command": "off"
+      },
+      {
+        "command": "on"
+      },
+      {
+        "command": "refresh"
+      },
+      {
+        "command": "updateFirmware"
+      }
+    ]
+  }
+]
