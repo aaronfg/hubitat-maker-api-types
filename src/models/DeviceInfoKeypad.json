@@ -1,0 +1,198 @@
+{
+  "id": "313",
+  "name": "Iris V2 Keypad",
+  "label": "Iris Keypad",
+  "type": "Iris V2 Keypad",
+  "room": null,
+  "attributes": [
+    {
+      "name": "battery",
+      "currentValue": 100,
+      "dataType": "NUMBER"
+    },
+    {
+      "name": "lastCodeName",
+      "currentValue": "Beard and Braid",
+      "dataType": "STRING"
+    },
+    {
+      "name": "armingIn",
+      "currentValue": 0,
+      "dataType": "NUMBER"
+    },
+    {
+      "name": "temperature",
+      "currentValue": 68.82,
+      "dataType": "NUMBER"
+    },
+    {
+      "name": "codeLength",
+      "currentValue": 4,
+      "dataType": "NUMBER"
+    },
+    {
+      "name": "securityKeypad",
+      "currentValue": "disarmed",
+      "dataType": "ENUM",
+      "values": [
+        "disarmed",
+        "armed home",
+        "armed away",
+        "unknown"
+      ]
+    },
+    {
+      "name": "maxCodes",
+      "currentValue": 20,
+      "dataType": "NUMBER"
+    },
+    {
+      "name": "alarm",
+      "currentValue": "off",
+      "dataType": "ENUM",
+      "values": [
+        "strobe",
+        "off",
+        "both",
+        "siren"
+      ]
+    },
+    {
+      "name": "codeChanged",
+      "currentValue": "deleted",
+      "dataType": "ENUM",
+      "values": [
+        "added",
+        "changed",
+        "deleted",
+        "failed"
+      ]
+    },
+    {
+      "name": "motion",
+      "currentValue": "inactive",
+      "dataType": "ENUM",
+      "values": [
+        "inactive",
+        "active"
+      ]
+    },
+    {
+      "name": "tamper",
+      "currentValue": "clear",
+      "dataType": "ENUM",
+      "values": [
+        "clear",
+        "detected"
+      ]
+    },
+    {
+      "name": "lockCodes",
+      "currentValue": "{\"1\":{\"code\":\"3339\",\"name\":\"Beard and Braid\"}}",
+      "dataType": "JSON_OBJECT"
+    }
+  ],
+  "capabilities": [
+    "MotionSensor",
+    {
+      "attributes": [
+        {
+          "name": "motion",
+          "dataType": null
+        }
+      ]
+    },
+    "Configuration",
+    "Refresh",
+    "Battery",
+    {
+      "attributes": [
+        {
+          "name": "battery",
+          "dataType": null
+        }
+      ]
+    },
+    "TamperAlert",
+    {
+      "attributes": [
+        {
+          "name": "tamper",
+          "dataType": null
+        }
+      ]
+    },
+    "Tone",
+    "Alarm",
+    {
+      "attributes": [
+        {
+          "name": "alarm",
+          "dataType": null
+        }
+      ]
+    },
+    "SecurityKeypad",
+    {
+      "attributes": [
+        {
+          "name": "securityKeypad",
+          "dataType": null
+        },
+        {
+          "name": "lockCodes",
+          "dataType": null
+        },
+        {
+          "name": "codeChanged",
+          "dataType": null
+        },
+        {
+          "name": "maxCodes",
+          "dataType": null
+        },
+        {
+          "name": "codeLength",
+          "dataType": null
+        },
+        {
+          "name": "lastCodeName",
+          "dataType": null
+        }
+      ]
+    },
+    "TemperatureMeasurement",
+    {
+      "attributes": [
+        {
+          "name": "temperature",
+          "dataType": null
+        }
+      ]
+    },
+    "Sensor"
+  ],
+  "commands": [
+    "armAway",
+    "armHome",
+    "armNight",
+    "beep",
+    "both",
+    "configure",
+    "deleteCode",
+    "disarm",
+    "entry",
+    "getCodes",
+    "off",
+    "refresh",
+    "setArmHomeDelay",
+    "setArmNightDelay",
+    "setCode",
+    "setCodeLength",
+    "setEntryDelay",
+    "setExitDelay",
+    "setPartialFunction",
+    "siren",
+    "strobe"
+  ]
+}

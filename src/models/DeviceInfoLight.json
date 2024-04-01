@@ -1,0 +1,99 @@
+{
+  "id": "304",
+  "name": "Generic Zigbee CT Bulb (dev)",
+  "label": "Bedroom Cactus Lamp",
+  "type": "Generic Zigbee CT Bulb (dev)",
+  "room": "Bedroom",
+  "attributes": [
+    {
+      "name": "switch",
+      "currentValue": "off",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    {
+      "name": "colorTemperature",
+      "currentValue": 2702,
+      "dataType": "NUMBER"
+    },
+    {
+      "name": "switch",
+      "currentValue": "off",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    {
+      "name": "colorName",
+      "currentValue": "Incandescent",
+      "dataType": "STRING"
+    },
+    {
+      "name": "level",
+      "currentValue": 100,
+      "dataType": "NUMBER"
+    }
+  ],
+  "capabilities": [
+    "Configuration",
+    "Actuator",
+    "Refresh",
+    "ColorTemperature",
+    {
+      "attributes": [
+        {
+          "name": "colorTemperature",
+          "dataType": null
+        },
+        {
+          "name": "colorName",
+          "dataType": null
+        }
+      ]
+    },
+    "ChangeLevel",
+    "SwitchLevel",
+    {
+      "attributes": [
+        {
+          "name": "level",
+          "dataType": null
+        }
+      ]
+    },
+    "Light",
+    {
+      "attributes": [
+        {
+          "name": "switch",
+          "dataType": null
+        }
+      ]
+    },
+    "Switch",
+    {
+      "attributes": [
+        {
+          "name": "switch",
+          "dataType": null
+        }
+      ]
+    }
+  ],
+  "commands": [
+    "configure",
+    "off",
+    "on",
+    "refresh",
+    "setColorTemperature",
+    "setLevel",
+    "startLevelChange",
+    "stopLevelChange",
+    "updateFirmware"
+  ]
+}

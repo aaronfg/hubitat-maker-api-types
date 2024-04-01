@@ -14,7 +14,7 @@
 
 #### Source
 
-[models/Capability.ts:2](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L2)
+[models/Capability.ts:2](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Source
 
-[models/Capability.ts:3](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L3)
+[models/Capability.ts:3](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L3)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[models/Capability.ts:4](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L4)
+[models/Capability.ts:4](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L4)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[models/Capability.ts:5](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L5)
+[models/Capability.ts:5](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L5)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[models/Capability.ts:6](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L6)
+[models/Capability.ts:6](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L6)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Source
 
-[models/Capability.ts:7](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L7)
+[models/Capability.ts:7](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L7)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Source
 
-[models/Capability.ts:8](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L8)
+[models/Capability.ts:8](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L8)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Source
 
-[models/Capability.ts:9](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L9)
+[models/Capability.ts:9](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L9)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Source
 
-[models/Capability.ts:10](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L10)
+[models/Capability.ts:10](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L10)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Source
 
-[models/Capability.ts:11](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L11)
+[models/Capability.ts:11](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L11)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Source
 
-[models/Capability.ts:12](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L12)
+[models/Capability.ts:12](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L12)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Source
 
-[models/Capability.ts:13](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L13)
+[models/Capability.ts:13](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L13)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Source
 
-[models/Capability.ts:14](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L14)
+[models/Capability.ts:14](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L14)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Source
 
-[models/Capability.ts:15](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L15)
+[models/Capability.ts:15](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L15)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Source
 
-[models/Capability.ts:16](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L16)
+[models/Capability.ts:16](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L16)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Source
 
-[models/Capability.ts:17](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L17)
+[models/Capability.ts:17](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L17)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Source
 
-[models/Capability.ts:18](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L18)
+[models/Capability.ts:18](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L18)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Source
 
-[models/Capability.ts:19](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L19)
+[models/Capability.ts:19](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L19)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Source
 
-[models/Capability.ts:20](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L20)
+[models/Capability.ts:20](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L20)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Source
 
-[models/Capability.ts:21](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L21)
+[models/Capability.ts:21](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L21)
 
 ***
 
@@ -214,4 +214,4 @@
 
 #### Source
 
-[models/Capability.ts:22](https://github.com/aaronfg/hubitat-maker-api-types/blob/a87585a/src/models/Capability.ts#L22)
+[models/Capability.ts:22](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L22)

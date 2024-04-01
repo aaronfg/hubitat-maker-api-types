@@ -1,14 +1,16 @@
 import { Capability } from "./Capability";
 import { Command } from "./Command";
+import { DeviceInfoAttribute } from "./DeviceInfoAttribute";
 
 /**
- * A Hubitat Device object returned from the `devices/` endpoint.
+ * A Hubitat Device object returned from the `devices/[Device ID]` endpoint.
  *
- * This is the simplest Device descriptor.
+ * While you'd think this would be the same data as when you
+ * query the `devices/all` endpoint, that's not the case.
+ *
+ * Sigh.
  */
-export interface Device {
-  /** Unique identifier */
-  id: string;
+export interface DeviceInfo {
   /**
    * Type of Device. e.g "Generic Zigbee Outlet"
    *
@@ -26,8 +28,20 @@ export interface Device {
    * Type of Device. e.g "Generic Zigbee Outlet"
    */
   type: string;
+  /** Unique identifier */
+  id: string;
   /**
    * Name of the Room this Device is associated with.
    */
   room?: string;
+  /**
+   * Array of device capabilites.
+   */
+  capabilities: Capability[];
+  /**
+   * Array of commands that can be sent to the hub
+   * to perform various actions.
+   */
+  commands: Command[];
+  attributes: DeviceInfoAttribute[];
 }

@@ -1,0 +1,72 @@
+{
+  "id": "1",
+  "name": "Generic Zigbee Outlet",
+  "label": "Bedroom Cam Plug",
+  "type": "Generic Zigbee Outlet",
+  "room": "Bedroom",
+  "attributes": [
+    {
+      "name": "switch",
+      "currentValue": "off",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    {
+      "name": "switch",
+      "currentValue": "off",
+      "dataType": "ENUM",
+      "values": [
+        "on",
+        "off"
+      ]
+    },
+    {
+      "name": "power",
+      "currentValue": 0,
+      "dataType": "NUMBER"
+    }
+  ],
+  "capabilities": [
+    "Configuration",
+    "Actuator",
+    "Outlet",
+    {
+      "attributes": [
+        {
+          "name": "switch",
+          "dataType": null
+        }
+      ]
+    },
+    "PowerMeter",
+    {
+      "attributes": [
+        {
+          "name": "power",
+          "dataType": null
+        }
+      ]
+    },
+    "Switch",
+    {
+      "attributes": [
+        {
+          "name": "switch",
+          "dataType": null
+        }
+      ]
+    },
+    "Sensor"
+  ],
+  "commands": [
+    "configure",
+    "flash",
+    "off",
+    "on",
+    "refresh",
+    "updateFirmware"
+  ]
+}
