@@ -1,6 +1,6 @@
 {
   "name": "@aaronfgdev/hubitat-maker-api-types",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A library for use in TS/JS projects for interacting with the Hubitat Maker API.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

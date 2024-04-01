@@ -1,4 +1,4 @@
-export enum Capabilities {
+export enum Capability {
   Actuator = "Actuator",
   Battery = "Battery",
   ChangeLevel = "ChangeLevel",
