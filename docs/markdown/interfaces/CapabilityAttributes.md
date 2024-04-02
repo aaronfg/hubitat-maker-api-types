@@ -34,4 +34,4 @@ to read up on other people complaining about this
 
 #### Source
 
-[models/Capability.ts:45](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Capability.ts#L45)
+[models/Capability.ts:52](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Capability.ts#L52)

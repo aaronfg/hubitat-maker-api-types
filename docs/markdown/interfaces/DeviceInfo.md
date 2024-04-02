@@ -17,23 +17,23 @@ Sigh.
 
 ### attributes
 
-> **attributes**: `DeviceInfoAttribute`[]
+> **attributes**: [`DeviceInfoAttribute`](DeviceInfoAttribute.md)[]
 
 #### Source
 
-models/DeviceInfo.ts:46
+[models/DeviceInfo.ts:46](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L46)
 
 ***
 
 ### capabilities
 
-> **capabilities**: [`Capability`](../enumerations/Capability.md)[]
+> **capabilities**: [`CapabilityName`](../enumerations/CapabilityName.md)[]
 
 Array of device capabilites.
 
 #### Source
 
-models/DeviceInfo.ts:40
+[models/DeviceInfo.ts:40](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L40)
 
 ***
 
@@ -46,7 +46,7 @@ to perform various actions.
 
 #### Source
 
-models/DeviceInfo.ts:45
+[models/DeviceInfo.ts:45](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L45)
 
 ***
 
@@ -58,7 +58,7 @@ Unique identifier
 
 #### Source
 
-models/DeviceInfo.ts:32
+[models/DeviceInfo.ts:15](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L15)
 
 ***
 
@@ -70,7 +70,7 @@ User-defined label for this device
 
 #### Source
 
-models/DeviceInfo.ts:26
+[models/DeviceInfo.ts:28](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L28)
 
 ***
 
@@ -87,7 +87,7 @@ as `type`. Not sure why.
 
 #### Source
 
-models/DeviceInfo.ts:22
+[models/DeviceInfo.ts:24](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L24)
 
 ***
 
@@ -99,7 +99,7 @@ Name of the Room this Device is associated with.
 
 #### Source
 
-models/DeviceInfo.ts:36
+[models/DeviceInfo.ts:36](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L36)
 
 ***
 
@@ -111,4 +111,4 @@ Type of Device. e.g "Generic Zigbee Outlet"
 
 #### Source
 
-models/DeviceInfo.ts:30
+[models/DeviceInfo.ts:32](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/DeviceInfo.ts#L32)

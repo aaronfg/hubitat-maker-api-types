@@ -1,4 +1,4 @@
-import { Capability } from "./Capability";
+import { CapabilityName } from "./Capability";
 import { Command } from "./Command";
 import { Device } from "./Device";
 
@@ -27,7 +27,7 @@ export interface DeviceFullDetails extends Device {
   /**
    * Array of device capabilites.
    */
-  capabilities: Capability[];
+  capabilities: CapabilityName[];
   /**
    * Array of commands that can be sent to the hub
    * to perform various actions.

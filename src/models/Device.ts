@@ -1,5 +1,4 @@
-import { Capability } from "./Capability";
-import { Command } from "./Command";
+import { CapabilityName } from "./Capability";
 
 /**
  * A Hubitat Device object returned from the `devices/` endpoint.
@@ -30,4 +29,12 @@ export interface Device {
    * Name of the Room this Device is associated with.
    */
   room?: string;
+  /**
+   * Array of device capability names.
+   *
+   * Don't confuse this with the capabilities array
+   * in the DeviceInfo interface -- That one has a mix
+   * of {@link CapabilityName} and {@link CapabilityAttributes} interfaces...
+   */
+  capabilities: CapabilityName[];
 }

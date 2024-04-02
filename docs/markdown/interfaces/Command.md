@@ -14,4 +14,4 @@
 
 #### Source
 
-[models/Command.ts:40](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L40)
+[models/Command.ts:40](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L40)

@@ -12,6 +12,22 @@ This is the simplest Device descriptor.
 
 ## Properties
 
+### capabilities
+
+> **capabilities**: [`CapabilityName`](../enumerations/CapabilityName.md)[]
+
+Array of device capability names.
+
+Don't confuse this with the capabilities array
+in the DeviceInfo interface -- That one has a mix
+of [CapabilityName](../enumerations/CapabilityName.md) and [CapabilityAttributes](CapabilityAttributes.md) interfaces...
+
+#### Source
+
+[models/Device.ts:39](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Device.ts#L39)
+
+***
+
 ### id
 
 > **id**: `string`
@@ -20,7 +36,7 @@ Unique identifier
 
 #### Source
 
-[models/Device.ts:11](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Device.ts#L11)
+[models/Device.ts:10](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Device.ts#L10)
 
 ***
 
@@ -32,7 +48,7 @@ User-defined label for this device
 
 #### Source
 
-[models/Device.ts:24](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Device.ts#L24)
+[models/Device.ts:23](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Device.ts#L23)
 
 ***
 
@@ -49,7 +65,7 @@ as `type`. Not sure why.
 
 #### Source
 
-[models/Device.ts:20](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Device.ts#L20)
+[models/Device.ts:19](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Device.ts#L19)
 
 ***
 
@@ -61,7 +77,7 @@ Name of the Room this Device is associated with.
 
 #### Source
 
-[models/Device.ts:32](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Device.ts#L32)
+[models/Device.ts:31](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Device.ts#L31)
 
 ***
 
@@ -73,4 +89,4 @@ Type of Device. e.g "Generic Zigbee Outlet"
 
 #### Source
 
-[models/Device.ts:28](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Device.ts#L28)
+[models/Device.ts:27](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Device.ts#L27)

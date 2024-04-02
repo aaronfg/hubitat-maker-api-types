@@ -3,3 +3,4 @@ export * from "./models/Capability";
 export * from "./models/Command";
 export * from "./models/Device";
 export * from "./models/DeviceInfo";
+export * from "./models/DeviceInfoAttribute";

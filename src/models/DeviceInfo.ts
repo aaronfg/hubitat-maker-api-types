@@ -1,4 +1,4 @@
-import { Capability } from "./Capability";
+import { CapabilityName } from "./Capability";
 import { Command } from "./Command";
 import { DeviceInfoAttribute } from "./DeviceInfoAttribute";
 
@@ -11,6 +11,8 @@ import { DeviceInfoAttribute } from "./DeviceInfoAttribute";
  * Sigh.
  */
 export interface DeviceInfo {
+  /** Unique identifier */
+  id: string;
   /**
    * Type of Device. e.g "Generic Zigbee Outlet"
    *
@@ -28,8 +30,6 @@ export interface DeviceInfo {
    * Type of Device. e.g "Generic Zigbee Outlet"
    */
   type: string;
-  /** Unique identifier */
-  id: string;
   /**
    * Name of the Room this Device is associated with.
    */
@@ -37,7 +37,7 @@ export interface DeviceInfo {
   /**
    * Array of device capabilites.
    */
-  capabilities: Capability[];
+  capabilities: CapabilityName[];
   /**
    * Array of commands that can be sent to the hub
    * to perform various actions.

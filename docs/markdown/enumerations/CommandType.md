@@ -14,7 +14,7 @@
 
 #### Source
 
-[models/Command.ts:2](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L2)
+[models/Command.ts:2](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Source
 
-[models/Command.ts:3](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L3)
+[models/Command.ts:3](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L3)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[models/Command.ts:4](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L4)
+[models/Command.ts:4](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L4)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[models/Command.ts:5](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L5)
+[models/Command.ts:5](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L5)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[models/Command.ts:6](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L6)
+[models/Command.ts:6](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L6)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Source
 
-[models/Command.ts:7](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L7)
+[models/Command.ts:7](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L7)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Source
 
-[models/Command.ts:8](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L8)
+[models/Command.ts:8](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L8)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Source
 
-[models/Command.ts:9](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L9)
+[models/Command.ts:9](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L9)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Source
 
-[models/Command.ts:10](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L10)
+[models/Command.ts:10](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L10)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Source
 
-[models/Command.ts:12](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L12)
+[models/Command.ts:12](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L12)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Source
 
-[models/Command.ts:11](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L11)
+[models/Command.ts:11](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L11)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Source
 
-[models/Command.ts:13](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L13)
+[models/Command.ts:13](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L13)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Source
 
-[models/Command.ts:14](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L14)
+[models/Command.ts:14](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L14)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Source
 
-[models/Command.ts:16](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L16)
+[models/Command.ts:16](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L16)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Source
 
-[models/Command.ts:17](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L17)
+[models/Command.ts:17](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L17)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Source
 
-[models/Command.ts:15](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L15)
+[models/Command.ts:15](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L15)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Source
 
-[models/Command.ts:18](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L18)
+[models/Command.ts:18](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L18)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Source
 
-[models/Command.ts:20](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L20)
+[models/Command.ts:20](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L20)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Source
 
-[models/Command.ts:19](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L19)
+[models/Command.ts:19](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L19)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Source
 
-[models/Command.ts:21](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L21)
+[models/Command.ts:21](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L21)
 
 ***
 
@@ -214,7 +214,7 @@
 
 #### Source
 
-[models/Command.ts:22](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L22)
+[models/Command.ts:22](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L22)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Source
 
-[models/Command.ts:23](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L23)
+[models/Command.ts:23](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L23)
 
 ***
 
@@ -234,7 +234,7 @@
 
 #### Source
 
-[models/Command.ts:24](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L24)
+[models/Command.ts:24](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L24)
 
 ***
 
@@ -244,7 +244,7 @@
 
 #### Source
 
-[models/Command.ts:25](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L25)
+[models/Command.ts:25](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L25)
 
 ***
 
@@ -254,7 +254,7 @@
 
 #### Source
 
-[models/Command.ts:26](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L26)
+[models/Command.ts:26](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L26)
 
 ***
 
@@ -264,7 +264,7 @@
 
 #### Source
 
-[models/Command.ts:27](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L27)
+[models/Command.ts:27](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L27)
 
 ***
 
@@ -274,7 +274,7 @@
 
 #### Source
 
-[models/Command.ts:28](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L28)
+[models/Command.ts:28](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L28)
 
 ***
 
@@ -284,7 +284,7 @@
 
 #### Source
 
-[models/Command.ts:29](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L29)
+[models/Command.ts:29](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L29)
 
 ***
 
@@ -294,7 +294,7 @@
 
 #### Source
 
-[models/Command.ts:30](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L30)
+[models/Command.ts:30](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L30)
 
 ***
 
@@ -304,7 +304,7 @@
 
 #### Source
 
-[models/Command.ts:31](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L31)
+[models/Command.ts:31](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L31)
 
 ***
 
@@ -314,7 +314,7 @@
 
 #### Source
 
-[models/Command.ts:32](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L32)
+[models/Command.ts:32](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L32)
 
 ***
 
@@ -324,7 +324,7 @@
 
 #### Source
 
-[models/Command.ts:33](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L33)
+[models/Command.ts:33](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L33)
 
 ***
 
@@ -334,7 +334,7 @@
 
 #### Source
 
-[models/Command.ts:34](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L34)
+[models/Command.ts:34](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L34)
 
 ***
 
@@ -344,7 +344,7 @@
 
 #### Source
 
-[models/Command.ts:35](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L35)
+[models/Command.ts:35](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L35)
 
 ***
 
@@ -354,4 +354,4 @@
 
 #### Source
 
-[models/Command.ts:36](https://github.com/aaronfg/hubitat-maker-api-types/blob/1509cff/src/models/Command.ts#L36)
+[models/Command.ts:36](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Command.ts#L36)

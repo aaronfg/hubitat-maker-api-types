@@ -14,7 +14,7 @@
 
 #### Source
 
-models/Attributes.ts:2
+[models/Attributes.ts:2](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Attributes.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@ models/Attributes.ts:2
 
 #### Source
 
-models/Attributes.ts:5
+[models/Attributes.ts:5](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Attributes.ts#L5)
 
 ***
 
@@ -34,7 +34,7 @@ models/Attributes.ts:5
 
 #### Source
 
-models/Attributes.ts:3
+[models/Attributes.ts:3](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Attributes.ts#L3)
 
 ***
 
@@ -44,4 +44,4 @@ models/Attributes.ts:3
 
 #### Source
 
-models/Attributes.ts:4
+[models/Attributes.ts:4](https://github.com/aaronfg/hubitat-maker-api-types/blob/c4aa04a/src/models/Attributes.ts#L4)

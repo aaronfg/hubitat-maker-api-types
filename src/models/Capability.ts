@@ -1,4 +1,6 @@
-export enum Capability {
+import { Attribute } from "./Attributes";
+
+export enum CapabilityName {
   Actuator = "Actuator",
   Battery = "Battery",
   ChangeLevel = "ChangeLevel",
@@ -20,6 +22,11 @@ export enum Capability {
   Telnet = "Telnet",
   TemperatureMeasurement = "TemperatureMeasurement",
   WaterSensor = "WaterSensor",
+}
+
+export interface CapabilityParsed {
+  name: CapabilityName;
+  attributes: Attribute[];
 }
 
 /**
@@ -45,7 +52,8 @@ export interface CapabilityAttributes {
   attributes: [
     {
       name: "switch";
-      dataType: null;
+      /** ? Always shows up as `null` */
+      dataType: unknown;
     }
   ];
 }
