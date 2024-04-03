@@ -1,0 +1,27 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Capabilities = void 0;
+var Capabilities;
+(function (Capabilities) {
+    Capabilities["Actuator"] = "Actuator";
+    Capabilities["Battery"] = "Battery";
+    Capabilities["ChangeLevel"] = "ChangeLevel";
+    Capabilities["ColorTemperature"] = "ColorTemperature";
+    Capabilities["Configuration"] = "Configuration";
+    Capabilities["DoubleTapableButton"] = "DoubleTapableButton";
+    Capabilities["HoldableButton"] = "HoldableButton";
+    Capabilities["Initialize"] = "Initialize";
+    Capabilities["Light"] = "Light";
+    Capabilities["Notification"] = "Notification";
+    Capabilities["Outlet"] = "Outlet";
+    Capabilities["PowerMeter"] = "PowerMeter";
+    Capabilities["PresenceSensor"] = "PresenceSensor";
+    Capabilities["PushableButton"] = "PushableButton";
+    Capabilities["Refresh"] = "Refresh";
+    Capabilities["Sensor"] = "Sensor";
+    Capabilities["Switch"] = "Switch";
+    Capabilities["SwitchLevel"] = "SwitchLevel";
+    Capabilities["Telnet"] = "Telnet";
+    Capabilities["TemperatureMeasurement"] = "TemperatureMeasurement";
+    Capabilities["WaterSensor"] = "WaterSensor";
+})(Capabilities || (exports.Capabilities = Capabilities = {}));

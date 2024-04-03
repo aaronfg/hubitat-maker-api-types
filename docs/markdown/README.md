@@ -1,3 +1,7 @@
+**@aaronfgdev/hubitat-maker-api-types** • Readme \| [API](globals.md)
+
+***
+
 # hubitat-maker-api-types
 A library for use in TS/JS projects for interacting with the [Hubitat Maker API](https://docs2.hubitat.com/apps/maker-api).
 
