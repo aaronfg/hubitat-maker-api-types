@@ -1,10 +1,15 @@
 import { CapabilityName } from "./Capability";
+import { Command } from "./Command";
+import { DeviceInfoAttribute } from "./DeviceInfoAttribute";
 /**
- * A Hubitat Device object returned from the `devices/` endpoint.
+ * A Hubitat Device object returned from the `devices/[Device ID]` endpoint.
  *
- * This is the simplest Device descriptor.
+ * While you'd think this would be the same data as when you
+ * query the `devices/all` endpoint, that's not the case.
+ *
+ * Sigh.
  */
-export interface Device {
+export interface DeviceInfo {
     /** Unique identifier */
     id: string;
     /**
@@ -29,11 +34,13 @@ export interface Device {
      */
     room?: string;
     /**
-     * Array of device capability names.
-     *
-     * Don't confuse this with the capabilities array
-     * in the DeviceInfo interface -- That one has a mix
-     * of {@link CapabilityName} and {@link CapabilityAttributes} interfaces...
+     * Array of device capabilites.
      */
     capabilities: CapabilityName[];
+    /**
+     * Array of commands that can be sent to the hub
+     * to perform various actions.
+     */
+    commands: Command[];
+    attributes: DeviceInfoAttribute[];
 }
